@@ -21,3 +21,8 @@ int main() {
 	printf("Dats send is : %s\n", message.mesg_text);
 	return 0;
 }
+/*
+Write data : hello
+Dats send is : hello
+
+*/
