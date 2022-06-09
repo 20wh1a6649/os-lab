@@ -28,3 +28,10 @@ int main() {
 	}
 
 }
+/*
+OUTPUT:
+User 1: hello
+
+hi
+User 1: good
+*/
